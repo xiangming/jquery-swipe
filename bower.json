@@ -1,0 +1,19 @@
+{
+  "name": "jquery-swipe",
+  "version": "0.1.0",
+  "authors": [
+    "arvin <webappsniper@gmail.com>"
+  ],
+  "description": "lightweight swipe plugin",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.7.2"
+  }
+}
